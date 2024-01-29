@@ -1,0 +1,14 @@
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\bin\Debug\net8.0\ExercicioQuartos.exe
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\bin\Debug\net8.0\ExercicioQuartos.deps.json
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\bin\Debug\net8.0\ExercicioQuartos.runtimeconfig.json
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\bin\Debug\net8.0\ExercicioQuartos.dll
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\bin\Debug\net8.0\ExercicioQuartos.pdb
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.AssemblyInfo.cs
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.dll
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\refint\ExercicioQuartos.dll
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.pdb
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ExercicioQuartos.genruntimeconfig.cache
+C:\Users\samue\source\repos\ExercicioQuartos\ExercicioQuartos\obj\Debug\net8.0\ref\ExercicioQuartos.dll
